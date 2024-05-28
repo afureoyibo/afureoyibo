@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-I am Afure Oyibo, currently working as a Site Reliability Engineer at [LinkedIn](https://github.com/linkedin). I am a distributed systems enthusiast, excited about designing, developing, optimizing and monitoring large scale infrastructure systems.
+I am Afure Oyibo, I currently work as a Senior Software Engineer at [LinkedIn](https://github.com/linkedin). I am a distributed systems enthusiast, excited about designing, building, and optimizing reliable large scale infrastructure systems.
 
 <h3>Summary</h3>
 
