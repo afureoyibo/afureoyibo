@@ -6,12 +6,11 @@ I am Afure Oyibo, I currently work as a Senior Software Engineer at [LinkedIn](h
 
 <h3>Summary</h3>
 
+<!--[![](https://raw.githubusercontent.com/afureoyibo/afureoyibo/master/profile-summary-card-output/bear/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
+[![](https://raw.githubusercontent.com/afureoyibo/afureoyibo/master/profile-summary-card-output/omni/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afureoyibo&theme=omni&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
 
-[![](https://raw.githubusercontent.com/afureoyibo/afureoyibo/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/afureoyibo/afureoyibo/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/afureoyibo/afureoyibo/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/afureoyibo/afureoyibo/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/afureoyibo/afureoyibo/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afureoyibo&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afureoyibo&theme=onedark)](https://git.io/streak-stats)-->
 
 <h2>🛠Tech Stack</h2>
 
